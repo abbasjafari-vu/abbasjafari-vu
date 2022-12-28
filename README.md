@@ -1,1 +1,1 @@
-<h3 style="font:bold;">Hi there 👋</h3>
+<h3 style="color:#044;">Hi there 👋</h3>
