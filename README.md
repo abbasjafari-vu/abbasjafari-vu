@@ -4,7 +4,7 @@
 
 <div class="hello">
 
-<img src="/image.svg" style="background-color:transparent" />
+<img src="/image.svg" class="test" />
   
 </div>
 
