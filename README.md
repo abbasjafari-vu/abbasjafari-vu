@@ -2,7 +2,7 @@
   
 <img src="/react.jpg" />
 
-![](/image.svg "test" class="test")
+![](/image.svg "test"){tst}
 
 
 
