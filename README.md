@@ -2,9 +2,9 @@
   
 <img src="/react.jpg" />
 
-<a href="/image.svg" class="ddd">
+<svg>
   <img src="/image.svg" alt="Hello"  />
-  </a>
+  </svg>
 
 
 
