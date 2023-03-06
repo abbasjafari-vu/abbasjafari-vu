@@ -2,7 +2,7 @@
   
 <img src="/react.jpg" />
 
-{backgroud-color:transparent}:![](/image.svg)
+Inline-style:![](/image.svg)
 
 
 
