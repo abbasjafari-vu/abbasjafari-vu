@@ -1,14 +1,12 @@
-<!doctype html>
 
-<body>
   
-  <img src="/react.jpg" />
+<img src="/react.jpg" />
 
-<span class="hello">
+<div class="hello">
 
 <img src="/image.svg" />
   
-</span>
+</div>
 
 
 
@@ -16,6 +14,3 @@
 
 # 🤔 ABOUT ME?
   
-</body>
-
-</html>
