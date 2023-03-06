@@ -3,10 +3,7 @@
 <span class="hello">
 
 <img src="/image.svg" />
-
-</span>
-
-
+  
 <style>
   
 .hello{
@@ -22,6 +19,10 @@ background-color:transparent;
 }
   
 </style>
+</span>
+
+
+
 
 
 # 🤔 ABOUT ME?
