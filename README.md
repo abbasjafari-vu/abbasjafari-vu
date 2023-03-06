@@ -1,5 +1,7 @@
 ![](./react.jpg)
 
-<img src="https://raw.githubusercontent.com/abbasjafari-vu/abbasjafari-vu/main/image.svg" style="margin-top:-80px;" />
+<div style="margin-top:-80px">
+![React](./react.jpg)
+</div>
 
 # 🤔 ABOUT ME?
