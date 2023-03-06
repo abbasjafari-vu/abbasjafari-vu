@@ -8,12 +8,19 @@
 
 
 <style>
+  
 .hello{
+  
 margin-top:-80px;
+  
 }
+  
 .hello img{
+  
 background-color:transparent;
+  
 }
+  
 </style>
 
 
