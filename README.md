@@ -1,4 +1,4 @@
-![](http://www.getaprogrammer.com.au/wp-content/uploads/2020/04/react.jpg)
+![](./react.jpg)
 
 ![](./image.svg)
 
