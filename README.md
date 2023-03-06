@@ -2,12 +2,7 @@
   
 <img src="/react.jpg" />
 
-<div class="hello">
-
-<img src="/image.svg" class="test" />
-  
-</div>
-
+backgroud-color:transparent;:![](/image.svg)
 
 
 
