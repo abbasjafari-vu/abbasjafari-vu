@@ -22,9 +22,9 @@ h1 {
   color: rgb(52, 73, 94);
   transform-origin: bottom;
   animation: 4s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
+        background-image:url(/react.jpg);
 }
       </style>
-      <img src="/react.jpg" />
       <h1>Hi there 👋</h1>
     </div>
   </foreignObject>
