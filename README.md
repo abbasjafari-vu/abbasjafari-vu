@@ -2,7 +2,7 @@
   
 <img src="/react.jpg" />
 
-![](/image.svg)
+<img src="/image.svg" alt="Hello" class="ddd" />
 
 
 
