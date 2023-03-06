@@ -1,8 +1,9 @@
 ![](./react.jpg)
 
 <div class="hello">
-![React](./image.svg)
+![](./image.svg)
 </div>
+
 <style>
 .hello{
 margin-top:-80px;
