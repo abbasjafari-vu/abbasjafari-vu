@@ -1,7 +1,7 @@
 ![](./react.jpg)
 
-<div style="margin-top:-80px">
-![React](./react.jpg)
+<div class="hello">
+![React](./image.jpg)
 </div>
 
 # 🤔 ABOUT ME?
