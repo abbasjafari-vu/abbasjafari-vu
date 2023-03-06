@@ -2,7 +2,7 @@
 
 <span class="hello">
 
-![](./image.svg)
+<img src="/image.svg" />
 
 </span>
 
