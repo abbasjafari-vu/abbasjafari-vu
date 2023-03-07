@@ -14,7 +14,7 @@ All this was interesting, but when I got to know the React framework, I decided 
 * `<HTML>` + `{CSS}` + `$Sass` + `Tailwindcss`
 * `JavaScript` & `$(jQuery)`
 * `React.js` & `Nextjs`
-* `<? PHP ?>`
+* `<? PHP ?>` & `nodejs`
 * `Wordpress Developer`
 
 ### 💬 Practice projects 🎵
