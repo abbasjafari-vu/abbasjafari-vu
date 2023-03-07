@@ -19,3 +19,6 @@ All this was interesting, but when I got to know the React framework, I decided 
 ### 💬 Practice projects 🎵
 * [Share me](https://sanity-shareme.vercel.app/ "Deployed in vercel") <br/>
 * [Porfolio](https://sanity-protfolio.vercel.app/ "Deployed in vercel")
+
+<br/>
+_Thank you_ for reading this. Putting time on something is always appreciatable.
