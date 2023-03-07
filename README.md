@@ -17,7 +17,9 @@ All this was interesting, but when I got to know the React framework, I decided 
 ### 👨‍💻 Skills / Languages  💪🏻
 * `<HTML>` + `{CSS}` + `$Sass` + `Tailwindcss`
 * `JavaScript` & `$(jQuery)`
-* `React.js` + `Nextjs`
+* `React.js` & `Nextjs`
+* `<? PHP ?>`
+* `Wordpress`
 
 <br/><br/><br/><br/>
 
