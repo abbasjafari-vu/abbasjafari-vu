@@ -14,7 +14,7 @@ All this was interesting, but when I got to know the React framework, I decided 
 * [Share me](https://sanity-shareme.vercel.app/ "Deployed in vercel") <br/>
 * [Porfolio](https://sanity-protfolio.vercel.app/ "Deployed in vercel")
 
-### 👨‍💻 Skills / Languages
+### 👨‍💻 Skills / Languages  💪🏻
 
 <br/><br/><br/><br/>
 
