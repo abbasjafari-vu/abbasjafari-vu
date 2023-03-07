@@ -15,7 +15,7 @@ All this was interesting, but when I got to know the React framework, I decided 
 * [Porfolio](https://sanity-protfolio.vercel.app/ "Deployed in vercel")
 
 ### 👨‍💻 Skills / Languages  💪🏻
-* <code><HTML></code>
+* `<HTML>`
 
 <br/><br/><br/><br/>
 
