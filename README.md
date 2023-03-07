@@ -15,7 +15,9 @@ All this was interesting, but when I got to know the React framework, I decided 
 * [Porfolio](https://sanity-protfolio.vercel.app/ "Deployed in vercel")
 
 ### 👨‍💻 Skills / Languages  💪🏻
-* `<HTML>`+ `{CSS}` + `$Sass` + `Tailwindcss`
+* `<HTML>` + `{CSS}` + `$Sass` + `Tailwindcss`
+* `JavaScript` & `$(jQuery)`
+* `React.js` + `Nextjs`
 
 <br/><br/><br/><br/>
 
