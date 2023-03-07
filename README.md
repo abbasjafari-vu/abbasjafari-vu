@@ -21,4 +21,4 @@ All this was interesting, but when I got to know the React framework, I decided 
 * [Porfolio](https://sanity-protfolio.vercel.app/ "Deployed in vercel")
 
 <br/>
-*Thank you* for reading this. Putting time on something is always appreciatable.
+<b>Thank you</b> for reading this. Putting time on something is always appreciatable.
