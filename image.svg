@@ -32,12 +32,13 @@
     }
 
     .content-text{
-        width: 300px;
+        width: 400px;
         height:200px;
         position:absolute;
         transform: translate(0,-50%);
         top: 50%;
         left: 5%;
+        margin-left:-50px;
         color: white;
         text-align: center;
     }
@@ -46,6 +47,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
+      font-family: 'Pacifico', cursive;
     }
     .text1 div{
       margin-top:-550px;
@@ -61,7 +63,7 @@
     }
     .text3 div{
       margin-bottom:-550px;
-        font-size: 22px;
+        font-size: 24px;
         opacity: 0;
         animation: 10s infinite move3;
     }
