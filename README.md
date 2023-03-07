@@ -10,14 +10,14 @@ I do not know why! But I was attracted to programming. I started learning websit
 html5, css3, javascript and install wordpress themes and then php - for wordpress plugins and themes.
 All this was interesting, but when I got to know the React framework, I decided to become a front-end developer and continue to develop websites professionally.
 
-### 👨‍💻 Skills / Languages  💪🏻
+### 👨‍💻 Skills / Languages
 * `<HTML>` + `{CSS}` + `$Sass` + `Tailwindcss`
 * `JavaScript` & `$(jQuery)`
 * `React.js` & `Nextjs`
 * `<?php ?>` & `Nodejs`
 * `Wordpress Developer`
 
-### 💬 Practice projects 🎵
+### 💬 Practice projects
 * [Share me](https://sanity-shareme.vercel.app/ "Deployed in vercel") <br/>
 * [Porfolio](https://sanity-protfolio.vercel.app/ "Deployed in vercel")
 
