@@ -17,4 +17,4 @@ All this was interesting, but when I got to know the React framework, I decided 
 
 
 ### 💬 Practice projects 🎵
-[Share me](https://sanity-shareme.vercel.app/)
+1. [Share me](https://sanity-shareme.vercel.app/ "Deployed in vercel")
