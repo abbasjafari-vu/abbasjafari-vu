@@ -19,7 +19,7 @@ All this was interesting, but when I got to know the React framework, I decided 
 * `JavaScript` & `$(jQuery)`
 * `React.js` & `Nextjs`
 * `<? PHP ?>`
-* `Wordpress`
+* `Wordpress developer`
 
 <br/><br/><br/><br/>
 
